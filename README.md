@@ -3,3 +3,10 @@ the first release will most likey only suport 1 3ds player and 1 java player, du
 I dont have a planned release date, I am curently a solo developer so more devs would speed it up.
 
 This is kind of very outdated I will update soon!
+
+Other projects I am planning on using in the repository:
+1. citra
+2. Geyser [maybe]
+3. Bunnge cord
+4. Spigot
+5. Viaas [maybe]
