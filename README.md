@@ -5,8 +5,7 @@ I dont have a planned release date, I am curently a solo developer so more devs 
 This is kind of very outdated I will update soon!
 
 Other projects I am planning on using in the repository:
-1. citra
-2. Geyser [maybe]
-3. Bunnge cord
-4. Spigot
-5. Viaas [maybe]
+1. Citra
+2. Bunnge cord
+3. Spigot
+4. Viaas [maybe]
