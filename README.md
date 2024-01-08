@@ -11,9 +11,9 @@ Other projects I am planning on using in the repository:
 4. Viaas [maybe]
 
 Predicted Minimum reqirmentes:
-OS: Windows 10 / 11 (This is subject to change)
-Cpu: x64
-Gpu: OpenGL 4.3
-Storage: 5 GB
+1. OS: Windows 10 / 11 (This is subject to change)
+2. Cpu: x64
+3. Gpu: OpenGL 4.3
+4. Storage: 5 GB
 
 More to Come!
