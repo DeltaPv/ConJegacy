@@ -14,5 +14,6 @@ Predicted Minimum reqirmentes:
 OS: Windows 10 / 11 (This is subject to change)
 Cpu: x64
 Gpu: OpenGL 4.3
+Storage: 5 GB
 
 More to Come!
