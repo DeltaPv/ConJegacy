@@ -9,3 +9,10 @@ Other projects I am planning on using in the repository:
 2. Bunnge cord
 3. Spigot
 4. Viaas [maybe]
+
+Predicted Minimum reqirmentes:
+OS: Windows 10 / 11 (This is subject to change)
+Cpu: x64
+Gpu: OpenGL 4.3
+
+More to Come!
